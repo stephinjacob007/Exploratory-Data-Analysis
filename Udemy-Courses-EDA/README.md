@@ -68,21 +68,21 @@ The dataset contains information about:
 ## Sample Insights
 
 ### Outlier Detection
-![Outliers Boxplot](images/boxplot_outliers.png)
+![Outliers Boxplot](Images/boxplot_outliers.png)
 
 Outlier analysis revealed strong right-skewed distributions in subscriber count, reviews, content duration, and revenue, consistent with power-law behavior commonly observed in digital platforms.
 
 ---
 
 ### Price vs Subscribers
-![Price vs Subscribers](images/price_vs_subscribers.png)
+![Price vs Subscribers](Images/price_vs_subscribers.png)
 
 Higher priced courses tend to attract fewer users but generate higher per-course revenue.
 
 ---
 
 ### Correlation Heatmap
-![Correlation](images/correlation_heatmap.png)
+![Correlation](Images/correlation_heatmap.png)
 
 Number of reviews is the strongest predictor of revenue.
 
