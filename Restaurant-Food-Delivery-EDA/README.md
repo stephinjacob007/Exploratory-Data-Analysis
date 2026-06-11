@@ -106,7 +106,7 @@ The raw dataset was uniformly loaded with all features formatted as generic `obj
 
 1. **Clone the Repository:**
 ```bash
-git clone [https://github.com/stephinjacob007/Exploratory-Data-Analysis/Restaurant-Food-Delivery-EDA.git](https://github.com/stephinjacob007/Exploratory-Data-Analysis/Restaurant-Food-Delivery-EDA.git)
+git clone ((https://github.com/stephinjacob007/Exploratory-Data-Analysis/Restaurant-Food-Delivery-EDA.git))
 cd Exploratory-Data-Analysis
 cd Restaurant-Food-Delivery-EDA
 
