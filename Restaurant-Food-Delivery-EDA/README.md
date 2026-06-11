@@ -15,8 +15,9 @@ The project pipeline is built from scratch in a production-oriented format using
 The workflow follows a rigorous analytical blueprint designed to guarantee high data integrity before visual mapping or descriptive inferences are drawn:
 
 ```text
-📁 Exploratory-Data-Analysis (Root)
+📁 Restaurant-Food-Delivery-EDA
 │
+├── 📁 Images/
 ├── 📄 Data_Train.xlsx           # Raw input dataset containing 11,094 instances
 ├── 📓 Food_Delivery_EDA.ipynb  # Main, heavily-commented Jupyter Notebook pipeline
 └── 📄 README.md                 # Project documentation & insight summary
